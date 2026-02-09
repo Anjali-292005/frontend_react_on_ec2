@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h1>Welcome t react with vite</h1>
+      <h1>Welcome to react with vite</h1>
       <h2>Start the project</h2>
     </div>
     
